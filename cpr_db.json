@@ -1,4 +1,31 @@
 {
-    "timeline": [],
-    "last_update": ""
+    "timeline": [
+        {
+            "project_id": "CPR",
+            "machine_id": "Ruby",
+            "location": "NYCU MD3 HALL",
+            "start_time": "22-07-02_10-15-16",
+            "finish_time": "22-07-02_10-22-11",
+            "cpr_duration": 340,
+            "cpr_avg_depth": 5.3,
+            "cpr_med_depth": 4.9,
+            "cpr_avg_bpm": 112,
+            "cpr_cf_ratio": 0.80,
+            "hash": "R3W56P21"
+        },
+        {
+            "project_id": "CPR",
+            "machine_id": "Pearl",
+            "location": "NYCU FD1 HALL",
+            "start_time": "22-07-03_14-20-03",
+            "finish_time": "22-07-03_14-32-10",
+            "cpr_duration": 593,
+            "cpr_avg_depth": 4.6,
+            "cpr_med_depth": 4.4,
+            "cpr_avg_bpm": 103,
+            "cpr_cf_ratio": 0.77,
+            "hash": "52ED879E"
+        }
+    ],
+    "last_update": "2022/7/3_14:32"
 }
