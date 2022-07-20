@@ -12,7 +12,7 @@
             "cpr_avg_depth": 5.3,
             "cpr_med_depth": 4.9,
             "cpr_avg_bpm": 112,
-            "cpr_cf_ratio": 0.80,
+            "cpr_cf_ratio": 0.8,
             "hash": "59227399"
         },
         {
@@ -29,7 +29,22 @@
             "cpr_avg_bpm": 103,
             "cpr_cf_ratio": 0.77,
             "hash": "12690225"
+        },
+        {
+            "project_id": "CPR",
+            "machine_id": "Pearl",
+            "mark": "log",
+            "location": "NYCU_YM_EB",
+            "activate_time": "22-07-21_00-35-37",
+            "start_time": "22-07-21_00-35-45",
+            "finish_time": "22-07-21_00-35-37",
+            "cpr_duration": null,
+            "cpr_avg_depth": null,
+            "cpr_med_depth": null,
+            "cpr_avg_bpm": null,
+            "cpr_cf_ratio": null,
+            "hash": null
         }
     ],
-    "last_update": "22-07-03_14-32-11"
+    "last_update": "22-07-21_00-35-47"
 }
