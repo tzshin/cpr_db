@@ -3,7 +3,9 @@
         {
             "project_id": "CPR",
             "machine_id": "Ruby",
+            "mark": "log",
             "location": "NYCU MD3 HALL",
+            "activate_time": "22-07-02_10-14-16",
             "start_time": "22-07-02_10-15-16",
             "finish_time": "22-07-02_10-22-11",
             "cpr_duration": 340,
@@ -16,7 +18,9 @@
         {
             "project_id": "CPR",
             "machine_id": "Pearl",
+            "mark": "log",
             "location": "NYCU FD1 HALL",
+            "activate_time": "22-07-03_14-19-03",
             "start_time": "22-07-03_14-20-03",
             "finish_time": "22-07-03_14-32-10",
             "cpr_duration": 593,
@@ -27,5 +31,5 @@
             "hash": "12690225"
         }
     ],
-    "last_update": "2022/7/3_14:32"
+    "last_update": "22-07-03_14-32-11"
 }
