@@ -359,7 +359,22 @@
             "cpr_avg_bpm": "0",
             "cpr_cf_ratio": "0",
             "hash": "54270337"
+        },
+        {
+            "project_id": "CPR",
+            "machine_id": "Pearl",
+            "mark": "log",
+            "location": null,
+            "activate_time": null,
+            "start_time": "22-08-24_14-30-58",
+            "finish_time": "22-08-24_14-31-12",
+            "cpr_duration": null,
+            "cpr_avg_depth": "0",
+            "cpr_med_depth": null,
+            "cpr_avg_bpm": "101",
+            "cpr_cf_ratio": "1",
+            "hash": "14075192"
         }
     ],
-    "last_update": "22-08-24_14-15-55"
+    "last_update": "22-08-24_14-31-15"
 }
